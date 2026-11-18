@@ -1,0 +1,19 @@
+
+.card {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 2px 2px 5px gray;
+}
+.avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.name{
+    font-weight: bold;
+}
+p{
+    color: gray;
+}
